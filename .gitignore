@@ -1,0 +1,33 @@
+# Build output
+/target/
+
+# IDE / Editor
+/.idea/
+/.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven wrapper (if added later)
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / Frontend (if expanded later)
+node_modules/
+
+# Env files
+.env
+.env.*
+
+# Audio cache
+audio-cache/
+
+# HLS segments (temporary streaming files)
+segments/
+
+# Generated
+*.class
